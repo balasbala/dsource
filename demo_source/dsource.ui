@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>703</width>
+    <width>681</width>
     <height>601</height>
    </rect>
   </property>
@@ -76,7 +76,7 @@
   <widget class="QPushButton" name="button_temp">
    <property name="geometry">
     <rect>
-     <x>230</x>
+     <x>240</x>
      <y>300</y>
      <width>71</width>
      <height>51</height>
@@ -96,7 +96,7 @@
   <widget class="QPushButton" name="button_humid">
    <property name="geometry">
     <rect>
-     <x>230</x>
+     <x>240</x>
      <y>370</y>
      <width>71</width>
      <height>51</height>
@@ -116,7 +116,7 @@
   <widget class="QLabel" name="label_temp">
    <property name="geometry">
     <rect>
-     <x>180</x>
+     <x>190</x>
      <y>300</y>
      <width>41</width>
      <height>41</height>
@@ -136,7 +136,7 @@
   <widget class="QLabel" name="label_humid">
    <property name="geometry">
     <rect>
-     <x>180</x>
+     <x>190</x>
      <y>380</y>
      <width>41</width>
      <height>41</height>
@@ -156,7 +156,7 @@
   <widget class="QPushButton" name="button_refresh">
    <property name="geometry">
     <rect>
-     <x>370</x>
+     <x>350</x>
      <y>350</y>
      <width>41</width>
      <height>31</height>
@@ -176,7 +176,7 @@
   <widget class="QPushButton" name="button_amb_r">
    <property name="geometry">
     <rect>
-     <x>50</x>
+     <x>60</x>
      <y>270</y>
      <width>71</width>
      <height>51</height>
@@ -196,7 +196,7 @@
   <widget class="QPushButton" name="button_amb_g">
    <property name="geometry">
     <rect>
-     <x>50</x>
+     <x>60</x>
      <y>340</y>
      <width>71</width>
      <height>51</height>
@@ -216,7 +216,7 @@
   <widget class="QPushButton" name="button_amb_b">
    <property name="geometry">
     <rect>
-     <x>50</x>
+     <x>60</x>
      <y>410</y>
      <width>71</width>
      <height>51</height>
@@ -236,7 +236,7 @@
   <widget class="QLabel" name="label_amb_red">
    <property name="geometry">
     <rect>
-     <x>20</x>
+     <x>30</x>
      <y>280</y>
      <width>21</width>
      <height>41</height>
@@ -256,7 +256,7 @@
   <widget class="QLabel" name="label_amb_green">
    <property name="geometry">
     <rect>
-     <x>20</x>
+     <x>30</x>
      <y>350</y>
      <width>21</width>
      <height>41</height>
@@ -276,7 +276,7 @@
   <widget class="QLabel" name="label_amb_blue">
    <property name="geometry">
     <rect>
-     <x>20</x>
+     <x>30</x>
      <y>410</y>
      <width>21</width>
      <height>41</height>
@@ -296,8 +296,8 @@
   <widget class="QPushButton" name="keypad_1">
    <property name="geometry">
     <rect>
-     <x>480</x>
-     <y>270</y>
+     <x>450</x>
+     <y>260</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -316,8 +316,8 @@
   <widget class="QPushButton" name="keypad_4">
    <property name="geometry">
     <rect>
-     <x>480</x>
-     <y>330</y>
+     <x>450</x>
+     <y>320</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -336,8 +336,8 @@
   <widget class="QPushButton" name="keypad_7">
    <property name="geometry">
     <rect>
-     <x>480</x>
-     <y>390</y>
+     <x>450</x>
+     <y>380</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -356,8 +356,8 @@
   <widget class="QPushButton" name="keypad_star">
    <property name="geometry">
     <rect>
-     <x>480</x>
-     <y>450</y>
+     <x>450</x>
+     <y>440</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -409,8 +409,8 @@
   <widget class="QPushButton" name="keypad_5">
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>330</y>
+     <x>500</x>
+     <y>320</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -429,8 +429,8 @@
   <widget class="QPushButton" name="keypad_8">
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>390</y>
+     <x>500</x>
+     <y>380</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -449,8 +449,8 @@
   <widget class="QPushButton" name="keypad_2">
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>270</y>
+     <x>500</x>
+     <y>260</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -469,8 +469,8 @@
   <widget class="QPushButton" name="keypad_0">
    <property name="geometry">
     <rect>
-     <x>530</x>
-     <y>450</y>
+     <x>500</x>
+     <y>440</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -489,8 +489,8 @@
   <widget class="QPushButton" name="keypad_6">
    <property name="geometry">
     <rect>
-     <x>580</x>
-     <y>330</y>
+     <x>550</x>
+     <y>320</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -509,8 +509,8 @@
   <widget class="QPushButton" name="keypad_9">
    <property name="geometry">
     <rect>
-     <x>580</x>
-     <y>390</y>
+     <x>550</x>
+     <y>380</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -529,8 +529,8 @@
   <widget class="QPushButton" name="keypad_3">
    <property name="geometry">
     <rect>
-     <x>580</x>
-     <y>270</y>
+     <x>550</x>
+     <y>260</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -549,8 +549,8 @@
   <widget class="QPushButton" name="keypad_hash">
    <property name="geometry">
     <rect>
-     <x>580</x>
-     <y>450</y>
+     <x>550</x>
+     <y>440</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -569,8 +569,8 @@
   <widget class="QPushButton" name="keypad_b">
    <property name="geometry">
     <rect>
-     <x>630</x>
-     <y>330</y>
+     <x>600</x>
+     <y>320</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -589,8 +589,8 @@
   <widget class="QPushButton" name="keypad_c">
    <property name="geometry">
     <rect>
-     <x>630</x>
-     <y>390</y>
+     <x>600</x>
+     <y>380</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -609,8 +609,8 @@
   <widget class="QPushButton" name="keypad_a">
    <property name="geometry">
     <rect>
-     <x>630</x>
-     <y>270</y>
+     <x>600</x>
+     <y>260</y>
      <width>41</width>
      <height>41</height>
     </rect>
@@ -629,8 +629,8 @@
   <widget class="QPushButton" name="keypad_d">
    <property name="geometry">
     <rect>
-     <x>630</x>
-     <y>450</y>
+     <x>600</x>
+     <y>440</y>
      <width>41</width>
      <height>41</height>
     </rect>
