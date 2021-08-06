@@ -294,8 +294,8 @@ class Ui_form(object):
         font.setWeight(75)
         self.label_BLUE.setFont(font)
         self.label_BLUE.setObjectName("label_BLUE")
-        self.keypadLCD = QtWidgets.QLCDNumber(form)
-        self.keypadLCD.setGeometry(QtCore.QRect(553, 212, 81, 31))
+        self.keypadLCD = QtWidgets.QLineEdit(form)
+        self.keypadLCD.setGeometry(QtCore.QRect(530, 219, 113, 31))
         self.keypadLCD.setObjectName("keypadLCD")
 
         self.retranslateUi(form)

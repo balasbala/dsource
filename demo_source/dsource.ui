@@ -706,12 +706,12 @@
     <string>BLUE</string>
    </property>
   </widget>
-  <widget class="QLCDNumber" name="keypadLCD">
+  <widget class="QLineEdit" name="keypadLCD">
    <property name="geometry">
     <rect>
-     <x>553</x>
-     <y>212</y>
-     <width>81</width>
+     <x>530</x>
+     <y>219</y>
+     <width>113</width>
      <height>31</height>
     </rect>
    </property>
