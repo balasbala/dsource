@@ -706,7 +706,7 @@
     <string>BLUE</string>
    </property>
   </widget>
-  <widget class="QLCDNumber" name="lcdNumber">
+  <widget class="QLCDNumber" name="keypadLCD">
    <property name="geometry">
     <rect>
      <x>553</x>
